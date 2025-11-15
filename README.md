@@ -1,5 +1,7 @@
 # Diabetes Prediction Web App
+
 🚀 **Live Demo:** [https://diabetes-prediction-app-pkyu.onrender.com/](https://diabetes-prediction-app-pkyu.onrender.com/)
+
 <img width="1885" height="855" alt="image" src="https://github.com/user-attachments/assets/db09bafc-233d-4d66-a016-de225dfbdc34" />
 
 A machine learning web application for predicting diabetes risk based on medical data using Support Vector Machine (SVM).
